@@ -54,13 +54,14 @@ My current research focuses on the following areas:
 - [C2] <span style="background-color: #5bc0de; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-C</span> **BOPRO: Towards New Style Bayesian Optimization with Large Language Models** <br> Authors, ..., **Yangbo Wei** (3rd Author). <br> *International Conference on Intelligent Computing (ICIC)*, 2025.
 - [C1] <span style="background-color: #ffd700; color: #d35400; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold; border: 1px solid #d35400;">Best Paper</span> **Knowledge Transfer for GaN HEMTs Parameter Extraction Based on Hybrid Model** <br> **Yangbo Wei**, et al. <br> *International Symposium on Electronic Design Automation (ISEDA)*, 2024. 🏆
 
+**Journal Publications**
+- [J1] <span style="background-color: #f0ad4e; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-B</span> **ModelGen: Automating Semiconductor Parameter Extraction with Large Language Model Agents** <br> **Yangbo Wei**, et al. <br> *ACM Transactions on Design Automation of Electronic Systems (TODAES)*.
+  
 **Preprints / Under Review**
 - [U3] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **Pack-MoE: Training-Free Expert Packing for Resource-Constrained Edge Deployment** <br> **Yangbo Wei**, et al. <br> *Under Review at Design Automation Conference (DAC)*, 2026.
 - [U2] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **Cluster-of-Thought: Semantic-Structured KV-Cache Management for Long-Context Reasoning Models** <br> **Yangbo Wei**, et al. <br> *Under Review at Design Automation Conference (DAC)*, 2026.
 - [U1] <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">Preprint</span> **EvoMAS: Heuristics in the Loop-Evolving Smarter Agentic Workflows** <br> **Yangbo Wei**, et al. <br> *Under Review at ICLR*, 2026.
 
-**Journal Publications**
-- [J1] <span style="background-color: #f0ad4e; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-B</span> **ModelGen: Automating Semiconductor Parameter Extraction with Large Language Model Agents** <br> **Yangbo Wei**, et al. <br> *ACM Transactions on Design Automation of Electronic Systems (TODAES)*.
 
 # 🎖 Honors and Awards
 **Academic Awards**
