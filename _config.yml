@@ -1,14 +1,13 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
+# This config file is meant for settings that affect your entire site.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhengyuan Shi"
-description              : "接软心审稿人！！！🙏"
-# repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yangbo Wei (韦杨波)"
+description              : "Ph.D. Student in Integrated Circuit Engineering at SJTU"
+# repository               : "yangbowei/yangbowei.github.io" # 如果你知道仓库名，可以取消注释并修改
 # google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +20,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhengyuan Shi"
-  avatar           : "images/2025.jpg"
-  bio              : "Ph.D. Candidate in The Chinese University of Hong Kong"
-  location         : "Hong Kong, China"
-  employer         :
+  name             : "Yangbo Wei"
+  avatar           : "images/avatar.png" # 记得将你的照片命名为 profile.jpg 并上传到 images 文件夹
+  bio              : "Ph.D. Student @ SJTU "
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=SQaM_UMAAAAJ&hl=en"
-  email            : "zyshi21@cse.cuhk.edu.hk"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : # 填入你的 Google Scholar 链接，例如 "https://scholar.google.com/citations?user=xxxx"
+  email            : "yangforever@sjtu.edu.cn"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +36,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ironprop-Stone"
+  github           : "yangbowei" # 假设你的 GitHub 用户名是 yangbowei
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhengyuan-shi-442493142/"
+  linkedin         : # 填入你的 LinkedIn 用户名或链接
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-2186-9579"
+  orcid            : # 填入你的 ORCID ID
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -136,7 +135,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # 修改为上海时间
 
 
 # Plugins
