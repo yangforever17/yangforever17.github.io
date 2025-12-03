@@ -6,7 +6,7 @@
 
 # Site Settings
 title                    : "Yangbo Wei (韦杨波)"
-description              : "Ph.D. Student in Integrated Circuit Engineering at SJTU"
+description              : "Don’t Panic."
 # repository               : "yangbowei/yangbowei.github.io" # 如果你知道仓库名，可以取消注释并修改
 # google_scholar_stats_use_cdn : true
 
@@ -36,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yangbowei" # 假设你的 GitHub 用户名是 yangbowei
+  github           : "yangforever17" # 假设你的 GitHub 用户名是 yangbowei
   google_plus      :
   keybase          :
   instagram        :
