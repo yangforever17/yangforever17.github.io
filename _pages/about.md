@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yangbo Wei is a first-year Ph.D. student in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), supervised by [Prof. Lei He (IEEE Fellow)](https://www.sjtu.edu.cn/). 
+Yangbo Wei (韦杨波) is a second-year Ph.D. student in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), supervised by [Prof. Lei He (IEEE Fellow)]([https://www.sjtu.edu.cn/](https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works)). 
 Prior to my journey in SJTU, I obtained my B.Sc. degree in Physics from Southeast University (SEU) in 2024.
 
 **My research interests lie at the intersection of AI Agents, Computer Architecture, and Electronic Design Automation (EDA).**
@@ -25,8 +25,8 @@ Prior to my journey in SJTU, I obtained my B.Sc. degree in Physics from Southeas
 My current research focuses on the following areas: 
 - **AI Agents & Reasoning**: Emotional Chain-of-Thought (CoT), Multi-Agent System (MAS) optimization, and heuristic-driven agentic workflows.
 - **AI Hardware Acceleration**: FPGA-based Overlay Processor Units (OPU) for LLMs, Speculative Decoding architectures.
-- **LLM System Optimization**: Mixture-of-Experts (MoE) quantization, sparsity, and KV-cache management.
-- **AI for EDA**: Automating semiconductor parameter extraction and Verilog generation using LLM Agents.
+- **LLM System Optimization**:  Quantization, sparsity, and KV-cache management.
+- **AI for EDA**: LLM Agents for EDA.
 
 # 🔥 News
 - *2025.11*: &nbsp;🚀🚀 **Double Strike!** Two papers were accepted by **ASPLOS 2026** and **AAAI 2026**! My research on *Speculative Decoding* and *Reasoning Paths* is getting recognized. 
