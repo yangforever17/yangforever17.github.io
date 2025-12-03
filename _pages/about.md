@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yangbo Wei (韦杨波) is a second-year Ph.D. student in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), supervised by [Prof. Lei He (IEEE Fellow)]([https://www.sjtu.edu.cn/](https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works)). 
+Yangbo Wei (韦杨波) is a second-year Ph.D. student in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), supervised by [Prof. Lei He (IEEE Fellow)]([(https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works)]). 
 Prior to my journey in SJTU, I obtained my B.Sc. degree in Physics from Southeast University (SEU) in 2024.
 
 **My research interests lie at the intersection of AI Agents, Computer Architecture, and Electronic Design Automation (EDA).**
 
 My current research focuses on the following areas: 
-- **AI Agents & Reasoning**: Emotional Chain-of-Thought (CoT), Multi-Agent System (MAS) optimization, and heuristic-driven agentic workflows.
+- **AI Agents & Reasoning**: Emotional Agent, Multi-Agent System (MAS), and agentic reasoning.
 - **AI Hardware Acceleration**: FPGA-based Overlay Processor Units (OPU) for LLMs, Speculative Decoding architectures.
 - **LLM System Optimization**:  Quantization, sparsity, and KV-cache management.
 - **AI for EDA**: LLM Agents for EDA.
 
 # 🔥 News
-- *2025.11*: &nbsp;🚀🚀 **Double Strike!** Two papers were accepted by **ASPLOS 2026** and **AAAI 2026**! My research on *Speculative Decoding* and *Reasoning Paths* is getting recognized. 
+- *2025.11*: &nbsp;🚀🚀 **Double Strike!** Two papers were accepted by **ASPLOS 2026 (10.6%)** and **AAAI 2026 (17.6%)**!
 - *2024.09*: &nbsp;🎉🎉 Admitted to Shanghai Jiao Tong University as a Ph.D. student.
 - *2024.05*: &nbsp;🏆🏆 Our paper *Knowledge Transfer for GaN HEMTs Parameter Extraction Based on Hybrid Model* received the **Best Paper Award** at ISEDA 2024!
 - *2024.05*: &nbsp;🎉🎉 Graduated from Southeast University with a B.Sc. in Physics.
@@ -50,7 +50,7 @@ My current research focuses on the following areas:
 - [C6] <span style="background-color: #f0ad4e; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-B</span> **MOE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based LLM** <br> **Yangbo Wei*** (Co-first), et al. <br> *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2025.
 - [C5] <span style="background-color: #5bc0de; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-C</span> **dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models** <br> **Yangbo Wei**, et al. <br> *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2026.
 - [C4] <span style="background-color: #5bc0de; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-C</span> **Vflow: Discovering optimal agentic workflows for verilog generation** <br> **Yangbo Wei**, et al. <br> *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2026.
-- [C3] <span style="background-color: #5bc0de; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-C</span> **FlightOPU: An FPGA Overlay Processor for LLM with HBM-Aware Multi-Die Architecture** <br> Authors, ..., **Yangbo Wei** (3rd Author). <br> *International Conference on Field-Programmable Technology (FPT)*, 2025.
+- [C3] <span style="background-color: #5bc0de; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-C</span> **FlightOPU: An FPGA Overlay Processor for LLM with HBM-Aware Multi-Die Architecture** <br> Authors, ..., **Yangbo Wei** (3rd Author). <br> *International Conference on Field-Programmable Technology (FPT invited)*, 2025.
 - [C2] <span style="background-color: #5bc0de; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-C</span> **BOPRO: Towards New Style Bayesian Optimization with Large Language Models** <br> Authors, ..., **Yangbo Wei** (3rd Author). <br> *International Conference on Intelligent Computing (ICIC)*, 2025.
 - [C1] <span style="background-color: #ffd700; color: #d35400; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold; border: 1px solid #d35400;">Best Paper</span> **Knowledge Transfer for GaN HEMTs Parameter Extraction Based on Hybrid Model** <br> **Yangbo Wei**, et al. <br> *International Symposium on Electronic Design Automation (ISEDA)*, 2024. 🏆
 
