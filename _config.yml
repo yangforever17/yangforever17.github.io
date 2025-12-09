@@ -5,7 +5,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yangbo Wei (韦杨波)"
+title                    : "Yangbo Wei"
 description              : "Don’t Panic."
 # repository               : "yangbowei/yangbowei.github.io" # 如果你知道仓库名，可以取消注释并修改
 # google_scholar_stats_use_cdn : true
