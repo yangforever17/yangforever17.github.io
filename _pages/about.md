@@ -29,10 +29,11 @@ My current research focuses on the following areas:
 - **AI for EDA**: LLM Agents for EDA.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Two papers were accepted by **ICML 2026**.
 - *2025.11*: &nbsp;🚀🚀 **Double Strike!** Two papers were accepted by **ASPLOS 2026 (10.6%)** and **AAAI 2026 (17.6%)**!
 - *2024.09*: &nbsp;🎉🎉 Admitted to Shanghai Jiao Tong University as a Ph.D. student.
 - *2024.05*: &nbsp;🏆🏆 Our paper *Knowledge Transfer for GaN HEMTs Parameter Extraction Based on Hybrid Model* received the **Best Paper Award** at ISEDA 2024!
-- *2024.05*: &nbsp;🎉🎉 Graduated from Southeast University with a B.Sc. in Physics.
+
 
 # 📝 Publications 
 
@@ -43,6 +44,10 @@ My current research focuses on the following areas:
 </div>
 
 **Conference Publications**
+- [C14] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **Topological Active Inference for Task Disambiguation** <br> **Yangbo Wei**, et al. <br> *International Conference on Machine Learning (ICML)*, 2026.
+- [C13] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **EvoMAS: Heuristics in the Loop--Evolving Smarter Agentic Workflows** <br> **Yangbo Wei**, et al. <br> *International Conference on Machine Learning (ICML)*, 2026.
+- [C12] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **PCBgen: Self-Evolving LLM Agent for Verifiable Specification-to-Schematic PCB Design** <br> **Yangbo Wei** (Co-first), et al. <br> *Design Automation Conference (DAC)*, 2026.
+- [C11] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **From Fluid Dynamics to Chip Design: Foundation Neural Operators Address Data Bottleneck in 3D-ICs Thermal Simulation** <br> **Yangbo Wei** (Co-first), et al. <br> *Design Automation Conference (DAC)*, 2026.
 - [C10] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **Mixture-of-Trees: Learning to Select and Weigh Reasoning Paths for Efficient LLM inference** <br> **Yangbo Wei**, et al. <br> *AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
 - [C9] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU** <br> **Yangbo Wei** (Co-first), et al. <br> *Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2026.
 - [C8] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **MedAtlas: Evaluating LLMs for Multi-Round, Multi-Task Medical Reasoning Across Diverse Imaging Modalities and Clinical Text** <br> Authors, ..., **Yangbo Wei** (3rd Author). <br> *AAAI Conference on Artificial Intelligence (AAAI oral)*, 2026.
@@ -60,7 +65,6 @@ My current research focuses on the following areas:
 **Preprints / Under Review**
 - [U3] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **Pack-MoE: xxx** <br> **Yangbo Wei**, et al. <br> *Under Review at Design Automation Conference (DAC)*, 2026.
 - [U2] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **Cluster-of-Thought: xxx** <br> **Yangbo Wei**, et al. <br> *Under Review at Design Automation Conference (DAC)*, 2026.
-- [U1] <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">Preprint</span> **EvoMAS: Heuristics in the Loop-Evolving Smarter Agentic Workflows** <br> **Yangbo Wei**, et al. <br> *Under Review at ICLR*, 2026.
 
 
 # 🎖 Honors and Awards
