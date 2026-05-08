@@ -18,21 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Yangbo Wei (韦杨波) is a second-year Ph.D. student in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), supervised by [Prof. Lei He (IEEE Fellow)](https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works). 
-Prior to my journey in SJTU, I obtained my B.Sc. degree in Physics from Southeast University (SEU) in 2024.
+Prior to my journey in SJTU, I obtained my B.Sc. degree from Southeast University (SEU) in 2024.
 
-**My research interests lie at the intersection of AI Agents, Computer Architecture, and Electronic Design Automation (EDA).**
+**My research interests lie at the intersection of LLM Agents, Computer Architecture, and Electronic Design Automation (EDA).**
 
-My current research focuses on the following areas: 
-- **AI Agents & Reasoning**: Emotional Agent, Multi-Agent System (MAS), and agentic reasoning.
-- **AI Hardware Acceleration**: FPGA-based Overlay Processor Units (OPU) for LLMs, Speculative Decoding architectures.
-- **LLM System Optimization**:  Quantization, sparsity, and KV-cache management.
-- **AI for EDA**: LLM Agents for EDA.
+My current research focuses on the following areas:
+
+- **AI Agents & Reasoning**: Agentic reasoning, Multi-Agent Systems (MAS), Efficient LLMs.  
+- **AI Hardware Acceleration**: Energy-efficient AI inference, ASIC & FPGA design for AI, Memory- and Kernel-level optimization.  
+- **LLM System Optimization**: Efficient LLM serving, Parallelism & memory optimization, Kernel-level execution, Runtime scheduling.  
+- **AI for EDA**: LLM-based agents for electronic design automation (EDA).
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Two papers were accepted by **ICML 2026**.
-- *2025.11*: &nbsp;🚀🚀 **Double Strike!** Two papers were accepted by **ASPLOS 2026 (10.6%)** and **AAAI 2026 (17.6%)**!
-- *2024.09*: &nbsp;🎉🎉 Admitted to Shanghai Jiao Tong University as a Ph.D. student.
-- *2024.05*: &nbsp;🏆🏆 Our paper *Knowledge Transfer for GaN HEMTs Parameter Extraction Based on Hybrid Model* received the **Best Paper Award** at ISEDA 2024!
+- *2025.11*: &nbsp;🚀🚀 Two papers were accepted by **ASPLOS 2026 (10.6%)** and **AAAI 2026 (17.6%)**.
+- *2024.05*: &nbsp;🏆🏆 Our paper received the **Best Paper Award** at ISEDA 2024!
 
 
 # 📝 Publications 
@@ -52,6 +52,8 @@ My current research focuses on the following areas:
 - [C9] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU** <br> **Yangbo Wei** (Co-first), et al. <br> *Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2026.
 - [C8] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **MedAtlas: Evaluating LLMs for Multi-Round, Multi-Task Medical Reasoning Across Diverse Imaging Modalities and Clinical Text** <br> Authors, ..., **Yangbo Wei** (3rd Author). <br> *AAAI Conference on Artificial Intelligence (AAAI oral)*, 2026.
 - [C7] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **MECoT: Markov emotional chain-of-thought for personality-consistent role-playing** <br> **Yangbo Wei**, et al. <br> *Annual Meeting of the Association for Computational Linguistics (ACL findings)*, 2025.
+- [C16] <span style="background-color: #f0ad4e; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-B</span> **MambaDATG: Domain-Adaptive Tri-Plane-Gated Pre-training for 3D Abdominal Segmentation** <br> **Yangbo Wei*** (Co-first), et al. <br> *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026.
+- [C15] <span style="background-color: #f0ad4e; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-B</span> **H3DE-Net: Efficient and Accurate 3D Landmark Detection in Medical Imaging** <br> **Yangbo Wei*** (Co-first), et al. <br> *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025.
 - [C6] <span style="background-color: #f0ad4e; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-B</span> **MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based LLM** <br> **Yangbo Wei*** (Co-first), et al. <br> *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2025.
 - [C5] <span style="background-color: #5bc0de; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-C</span> **dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models** <br> **Yangbo Wei**, et al. <br> *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2026.
 - [C4] <span style="background-color: #5bc0de; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-C</span> **Vflow: Discovering optimal agentic workflows for verilog generation** <br> **Yangbo Wei**, et al. <br> *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2026.
@@ -62,30 +64,21 @@ My current research focuses on the following areas:
 **Journal Publications**
 - [J1] <span style="background-color: #f0ad4e; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-B</span> **ModelGen: Automating Semiconductor Parameter Extraction with Large Language Model Agents** <br> **Yangbo Wei**, et al. <br> *ACM Transactions on Design Automation of Electronic Systems (TODAES)*.
   
-**Preprints / Under Review**
-- [U3] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **Pack-MoE: xxx** <br> **Yangbo Wei**, et al. <br> *Under Review at Design Automation Conference (DAC)*, 2026.
-- [U2] <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">CCF-A</span> **Cluster-of-Thought: xxx** <br> **Yangbo Wei**, et al. <br> *Under Review at Design Automation Conference (DAC)*, 2026.
 
 
 # 🎖 Honors and Awards
 **Academic Awards**
 - *2024.05* **Best Paper Award**, ISEDA 2024 (International Symposium on Electronic Design Automation)
-- *2023* First Prize (Meritorious Winner), Mathematical Contest in Modeling (MCM/ICM)
-- *2023* Second Prize, China Undergraduate Mathematical Contest in Modeling (National Level)
 
 **Competitions**
-- *2022* First Prize, Southeast University Programming Competition
+- *2023* First Prize (Meritorious Winner), Mathematical Contest in Modeling (MCM/ICM)
+- *2023* Second Prize, China Undergraduate Mathematical Contest in Modeling (National Level)
 - *2022* First Prize, Southeast University Electronic Design Competition
 
 # 📖 Education
 - *2024.09 - Present*, Ph.D. Student in Integrated Circuit Engineering, Shanghai Jiao Tong University (SJTU). 
-- *2020.09 - 2024.06*, B.Sc. in Physics, Southeast University (SEU). 
+- *2020.09 - 2024.06*, B.Sc. Southeast University (SEU). 
 
-# 💻 Projects
-- **AI Agents & Reasoning (MECoT & EvoMAS)**: Developed "Markov Emotional Chain-of-Thought" (MECoT) to enhance personality-consistent role-playing in LLMs. Proposed EvoMAS to optimize Multi-Agent Systems (MAS) workflows using heuristic evolution loops for smarter agentic collaboration.
-- **FPGA-based Overlay Processor Unit (OPU)**: Designed a scalable computing engine on Xilinx Alveo U200 to accelerate BERT, ViT, and LLaMA models. Implemented hardware-software co-design with PCIe data transfer.
-- **Heterogeneous Speculative Decoding (DFVG)**: Proposed a Draft-on-FPGA, Verify-on-GPU architecture, achieving 3.26x throughput improvement for LLM inference.
-- **Expert-Aware Quantization for MoE**: Implemented N:M sparsity and mixed-precision quantization for DeepSeek-V2-Lite, reducing parameter size by 2.76x.
 
 
 # 🏖️ Life & Misc
