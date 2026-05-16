@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <section class="profile-hero">
+  <img class="profile-hero__pet" src="/images/kkk.png" alt="" aria-hidden="true">
   <div class="profile-hero__eyebrow">LLM Agents · Computer Architecture · AI for EDA</div>
   <h1 class="profile-hero__name">Yangbo Wei <span>韦杨波</span></h1>
   <p class="profile-hero__summary">I am a second-year Ph.D. student in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), and the School of Computer Science, Eastern Institute of Technology, supervised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works">Prof. Lei He (IEEE Fellow)</a>. Prior to my journey in SJTU, I obtained my B.Sc. degree from Southeast University (SEU) in 2024.</p>
