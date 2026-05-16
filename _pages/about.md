@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yangbo Wei (韦杨波) is a second-year Ph.D. student in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), supervised by [Prof. Lei He (IEEE Fellow)](https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works). 
+Yangbo Wei (韦杨波) is a second-year Ph.D. student in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), and the School of Computer Science, Eastern Institute of Technology, supervised by [Prof. Lei He (IEEE Fellow)](https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works).  
 Prior to my journey in SJTU, I obtained my B.Sc. degree from Southeast University (SEU) in 2024.
 
 **My research interests lie at the intersection of LLM Agents, Computer Architecture, and Electronic Design Automation (EDA).**
@@ -68,12 +68,18 @@ My current research focuses on the following areas:
 
 # 🎖 Honors and Awards
 **Academic Awards**
+- *2026* **Silver Reviewer Award**, ICML 2026 (International Conference on Machine Learning)
 - *2024.05* **Best Paper Award**, ISEDA 2024 (International Symposium on Electronic Design Automation)
 
 **Competitions**
 - *2023* First Prize (Meritorious Winner), Mathematical Contest in Modeling (MCM/ICM)
 - *2023* Second Prize, China Undergraduate Mathematical Contest in Modeling (National Level)
 - *2022* First Prize, Southeast University Electronic Design Competition
+
+# 💼 Experience
+**Academic Service**
+- *2026* Reviewer, ICML 2026 (International Conference on Machine Learning)
+- *2026* Reviewer, NeurIPS 2026 (Conference on Neural Information Processing Systems)
 
 # 📖 Education
 - *2024.09 - Present*, Ph.D. Student in Integrated Circuit Engineering, Shanghai Jiao Tong University (SJTU). 
@@ -84,4 +90,3 @@ My current research focuses on the following areas:
 # 🏖️ Life & Misc
 
 **“Don’t Panic. In a universe this big, a bug is nothing.”**
-
