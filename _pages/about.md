@@ -44,7 +44,7 @@ redirect_from:
   <div class="research-card">
     <span>04</span>
     <strong>AI for EDA</strong>
-    <p>LLM-based agents for EDA, schematic synthesis, PCB design, Verilog generation, 3D-IC thermal modeling, semiconductor parameter extraction.</p>
+    <p>LLM agents for EDA, EDA foundation models, multi-fidelity optimization, AI4Science, and design automation intelligence.</p>
   </div>
 </section>
 
