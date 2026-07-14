@@ -372,18 +372,77 @@ img.author__avatar {
 }
 
 .publication-summary {
-    margin: -0.35rem 0 0.85rem;
-    padding: 0.48rem 0.68rem;
-    border: 1px solid rgba(30, 92, 120, 0.12);
-    border-left: 3px solid var(--site-accent-2);
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, max-content) minmax(14rem, 1fr);
+    align-items: center;
+    gap: 0.55rem 0.85rem;
+    overflow: hidden;
+    margin: -0.35rem 0 0.9rem;
+    padding: 0.62rem 0.78rem;
+    border: 1px solid rgba(255, 255, 255, 0.16);
     border-radius: 8px;
-    color: var(--site-muted);
-    background: rgba(255, 255, 255, 0.58);
-    font-size: 0.82rem;
-    line-height: 1.42;
+    color: rgba(255, 255, 255, 0.78);
+    background:
+        linear-gradient(135deg, rgba(23, 32, 51, 0.96), rgba(30, 92, 120, 0.92)),
+        repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0 1px, transparent 1px 18px);
+    box-shadow: 0 14px 34px rgba(23, 32, 51, 0.16);
+    font-size: 0.75rem;
+    line-height: 1.38;
 
     strong {
-        color: var(--site-ink);
+        color: #fff;
+    }
+
+    &::before {
+        content: "";
+        position: absolute;
+        inset: 0 auto 0 0;
+        width: 4px;
+        background: linear-gradient(180deg, #ffe08a, var(--site-accent), var(--site-accent-2));
+    }
+
+    &::after {
+        content: "";
+        position: absolute;
+        right: -4rem;
+        top: -5rem;
+        width: 11rem;
+        height: 11rem;
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(255, 255, 255, 0.13), transparent 58%);
+    }
+
+    p {
+        position: relative;
+        z-index: 1;
+        margin: 0;
+        color: rgba(255, 255, 255, 0.80);
+    }
+}
+
+.publication-summary__metric {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    min-width: 4.2rem;
+    padding: 0.18rem 0.55rem 0.2rem;
+    border-right: 1px solid rgba(255, 255, 255, 0.16);
+
+    strong {
+        font-size: 1.1rem;
+        line-height: 1;
+    }
+
+    span {
+        margin-top: 0.12rem;
+        color: rgba(255, 255, 255, 0.62);
+        font-size: 0.52rem;
+        font-weight: 800;
+        letter-spacing: 0.05em;
+        line-height: 1.15;
+        text-transform: uppercase;
     }
 }
 
@@ -560,6 +619,20 @@ img.author__avatar {
 }
 
 @media (max-width: 720px) {
+    .publication-summary {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .publication-summary p {
+        grid-column: 1 / -1;
+    }
+
+    .publication-summary__metric {
+        min-width: 0;
+        padding-left: 0.35rem;
+        padding-right: 0.35rem;
+    }
+
     .pub-item {
         grid-template-columns: 1fr;
         grid-template-areas:
