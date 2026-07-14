@@ -374,12 +374,12 @@ img.author__avatar {
 .pub-badge {
     display: inline-flex;
     align-items: center;
-    min-height: 1.35rem;
-    padding: 0.14rem 0.48rem;
+    min-height: 1.05rem;
+    padding: 0.08rem 0.36rem;
     border: 1px solid transparent;
     border-radius: 999px;
     color: #fff;
-    font-size: 0.68rem;
+    font-size: 0.58rem;
     font-weight: 800;
     line-height: 1;
     letter-spacing: 0.03em;
@@ -414,18 +414,122 @@ img.author__avatar {
 }
 
 .publication-list {
-    > p {
-        margin-top: 1.15rem;
-        margin-bottom: 0.55rem;
+    display: grid;
+    gap: 1.15rem;
+}
 
-        strong {
-            color: var(--site-accent-2);
-            font-size: 0.86rem;
-            letter-spacing: 0.06em;
-            text-transform: uppercase;
+.pub-group {
+    h2 {
+        display: flex;
+        align-items: center;
+        gap: 0.65rem;
+        margin: 1.35rem 0 0.75rem;
+        color: var(--site-accent-2);
+        font-size: 0.95rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+
+        &::after {
+            content: "";
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(90deg, rgba(30, 92, 120, 0.24), transparent);
+        }
+    }
+}
+
+.pub-item {
+    position: relative;
+    margin-bottom: 0.72rem;
+    padding: 0.95rem 1rem 0.85rem 1.15rem;
+    border: 1px solid rgba(23, 32, 51, 0.09);
+    border-left: 3px solid rgba(30, 92, 120, 0.34);
+    border-radius: 8px;
+    background:
+        linear-gradient(135deg, rgba(255, 255, 255, 0.82), rgba(246, 249, 249, 0.66)),
+        linear-gradient(90deg, rgba(30, 92, 120, 0.04), transparent 38%);
+    box-shadow: 0 12px 30px rgba(23, 32, 51, 0.055);
+    line-height: 1.52;
+    transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+
+    &:hover {
+        transform: translateY(-1px);
+        border-color: rgba(30, 92, 120, 0.20);
+        border-left-color: var(--site-accent);
+        box-shadow: 0 16px 38px rgba(23, 32, 51, 0.075);
+    }
+
+    h3 {
+        margin: 0.48rem 0 0.34rem;
+        color: var(--site-ink);
+        font-size: 1rem;
+        line-height: 1.35;
+
+        a {
+            color: inherit;
+            text-decoration: none;
+
+            &:hover {
+                color: var(--site-accent);
+                text-decoration: underline;
+            }
         }
     }
 
+    p {
+        margin: 0;
+        color: var(--site-muted);
+        font-size: 0.88rem;
+        line-height: 1.45;
+
+        strong {
+            color: var(--site-ink);
+        }
+    }
+}
+
+.pub-item__venue {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.45rem;
+    padding: 0.16rem 0.58rem;
+    border: 1px solid rgba(30, 92, 120, 0.24);
+    border-radius: 999px;
+    color: #fff;
+    background: linear-gradient(135deg, var(--site-accent-2), #17384d);
+    box-shadow: 0 8px 18px rgba(30, 92, 120, 0.16);
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.04em;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.pub-item__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.32rem;
+    margin-top: 0.56rem;
+
+    span:not(.pub-badge) {
+        display: inline-flex;
+        align-items: center;
+        min-height: 1.05rem;
+        padding: 0.08rem 0.36rem;
+        border: 1px solid rgba(23, 32, 51, 0.10);
+        border-radius: 999px;
+        color: var(--site-muted);
+        background: rgba(255, 255, 255, 0.68);
+        font-size: 0.58rem;
+        font-weight: 800;
+        letter-spacing: 0.03em;
+        line-height: 1;
+        text-transform: uppercase;
+    }
+}
+
+/* Legacy publication list fallback. */
+.publication-list {
     ul {
         margin-left: 0;
         padding-left: 0;
