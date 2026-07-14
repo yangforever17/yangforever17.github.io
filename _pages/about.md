@@ -75,6 +75,7 @@ redirect_from:
 <div class="publication-list">
   <section class="pub-group">
     <h2>Agentic AI & Reasoning</h2>
+    <p class="pub-group__note">Self-evolving agents, agentic RL, agent infrastructure, multi-agent workflows, and efficient reasoning systems.</p>
     <article class="pub-item">
       <div class="pub-item__venue">arXiv 2026</div>
       <h3><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_OnEpYMAAAAJ&citation_for_view=_OnEpYMAAAAJ:roLk4NBRz8UC">SkillSmith: Co-Evolving Skills and Tools for Self-Improving Agent Systems</a></h3>
@@ -85,127 +86,130 @@ redirect_from:
       <div class="pub-item__venue">ICML 2026</div>
       <h3>Topological Active Inference for Task Disambiguation</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>ICML Main</span><span>Active Inference</span><span>Task Disambiguation</span><span>Agent Reasoning</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>ML Top-3</span><span>Active Inference</span><span>Task Disambiguation</span><span>Agentic RL</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ICML 2026</div>
       <h3>EvoMAS: Heuristics in the Loop--Evolving Smarter Agentic Workflows</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>ICML Main</span><span>Multi-Agent Systems</span><span>Workflow Evolution</span><span>Agent Optimization</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>ML Top-3</span><span>Multi-Agent Systems</span><span>Workflow Evolution</span><span>Self-Evolving Agents</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ACL 2025</div>
       <h3>MECoT: Markov Emotional Chain-of-Thought for Personality-Consistent Role-Playing</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>ACL Main</span><span>Role-Playing Agents</span><span>Emotional CoT</span><span>Personality Consistency</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>NLP Flagship</span><span>Role-Playing Agents</span><span>Emotional CoT</span><span>Personality Consistency</span></div>
     </article>
   </section>
 
   <section class="pub-group">
     <h2>LLM Systems & Architecture</h2>
+    <p class="pub-group__note">Memory-aware serving, KV-cache management, speculative decoding, FPGA overlays, and architecture-runtime co-design for efficient LLMs.</p>
     <article class="pub-item">
       <div class="pub-item__venue">ICCAD 2026</div>
       <h3>Cluster-of-Thought: Semantic-Structured KV-Cache Management for Long-Context Reasoning Models</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>ICCAD</span><span>KV Cache</span><span>Long-Context Reasoning</span><span>Structured Semantics</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>EDA Big-4</span><span>KV Cache</span><span>Long-Context Reasoning</span><span>Structured Semantics</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">AAAI 2026</div>
       <h3>Mixture-of-Trees: Learning to Select and Weigh Reasoning Paths for Efficient LLM Inference</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>AAAI Main</span><span>Reasoning Paths</span><span>Efficient Inference</span><span>Path Selection</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>AI Flagship</span><span>Reasoning Paths</span><span>Efficient Inference</span><span>Path Selection</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ASPLOS 2026</div>
       <h3>DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU</h3>
       <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>ASPLOS</span><span>Speculative Decoding</span><span>FPGA-GPU</span><span>Heterogeneous Architecture</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>Systems Top-tier</span><span>Speculative Decoding</span><span>FPGA-GPU</span><span>Heterogeneous Architecture</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ISCAS 2026</div>
       <h3><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_OnEpYMAAAAJ&citation_for_view=_OnEpYMAAAAJ:UebtZRa9Y70C">Harnessing Spatiotemporal Redundancy for Fast Diffusion Models on FPGA</a></h3>
       <p>Authors, ..., <strong>Yangbo Wei</strong> (4th Author).</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>ISCAS</span><span>Diffusion Models</span><span>Spatiotemporal Redundancy</span><span>FPGA Acceleration</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>Circuits Flagship</span><span>Diffusion Models</span><span>Spatiotemporal Redundancy</span><span>FPGA Acceleration</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ASPDAC 2026</div>
       <h3>dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--c">CCF-C</span><span>ASPDAC</span><span>Diffusion LLM</span><span>Overlay Processor</span><span>FPGA</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--c">CCF-C</span><span>Asia-Pacific EDA</span><span>Diffusion LLM</span><span>Overlay Processor</span><span>FPGA</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ICCAD 2025</div>
       <h3>MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-Based LLM</h3>
       <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>ICCAD</span><span>MoE</span><span>Expert Parallelism</span><span>FPGA Overlay</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>EDA Big-4</span><span>MoE</span><span>Expert Parallelism</span><span>FPGA Overlay</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">FPT 2025</div>
       <h3>FlightOPU: An FPGA Overlay Processor for LLM with HBM-Aware Multi-Die Architecture</h3>
       <p>Authors, ..., <strong>Yangbo Wei</strong> (3rd Author).</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--c">CCF-C</span><span>FPT</span><span>HBM</span><span>Multi-Die</span><span>LLM Acceleration</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--c">CCF-C</span><span>Reconfigurable Computing</span><span>HBM</span><span>Multi-Die</span><span>LLM Acceleration</span></div>
     </article>
   </section>
 
   <section class="pub-group">
     <h2>AI for EDA</h2>
+    <p class="pub-group__note">LLM agents for schematic synthesis, verifiable PCB design, Verilog workflow search, 3D-IC thermal modeling, and semiconductor parameter extraction.</p>
     <article class="pub-item">
       <div class="pub-item__venue">ICCAD 2026</div>
       <h3>PCBclaw: Hierarchical Multi-Agent Schematic Synthesis and Verification for MCU System Boards</h3>
       <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>ICCAD</span><span>Multi-Agent EDA</span><span>Schematic Synthesis</span><span>MCU Boards</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>EDA Big-4</span><span>Multi-Agent EDA</span><span>Schematic Synthesis</span><span>MCU Boards</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">DAC 2026</div>
       <h3>PCBgen: Self-Evolving LLM Agent for Verifiable Specification-to-Schematic PCB Design</h3>
       <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>DAC</span><span>PCB Design</span><span>Self-Evolving Agent</span><span>Verification</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>EDA Big-4</span><span>PCB Design</span><span>Self-Evolving Agent</span><span>Verification</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">DAC 2026</div>
       <h3>From Fluid Dynamics to Chip Design: Foundation Neural Operators Address Data Bottleneck in 3D-ICs Thermal Simulation</h3>
       <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>DAC</span><span>3D-IC Thermal</span><span>Neural Operators</span><span>Foundation Models</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>EDA Big-4</span><span>3D-IC Thermal</span><span>Neural Operators</span><span>Foundation Models</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ASPDAC 2026</div>
       <h3>Vflow: Discovering Optimal Agentic Workflows for Verilog Generation</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--c">CCF-C</span><span>ASPDAC</span><span>Verilog Generation</span><span>Workflow Search</span><span>Agentic EDA</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--c">CCF-C</span><span>Asia-Pacific EDA</span><span>Verilog Generation</span><span>Workflow Search</span><span>Agentic EDA</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">TODAES</div>
       <h3>ModelGen: Automating Semiconductor Parameter Extraction with Large Language Model Agents</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>TODAES</span><span>Parameter Extraction</span><span>LLM Agents</span><span>Semiconductor Modeling</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>ACM Journal</span><span>Parameter Extraction</span><span>LLM Agents</span><span>Semiconductor Modeling</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ISEDA 2024</div>
       <h3>Knowledge Transfer for GaN HEMTs Parameter Extraction Based on Hybrid Model</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--best">Best Paper</span><span>ISEDA</span><span>GaN HEMTs</span><span>Parameter Extraction</span><span>Knowledge Transfer</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--best">Best Paper</span><span>EDA Symposium</span><span>GaN HEMTs</span><span>Parameter Extraction</span><span>Knowledge Transfer</span></div>
     </article>
   </section>
 
   <section class="pub-group">
     <h2>AI for Science & Healthcare</h2>
+    <p class="pub-group__note">Multimodal medical reasoning, clinical evaluation, 3D segmentation, domain adaptation, and efficient medical imaging models.</p>
     <article class="pub-item">
       <div class="pub-item__venue">AAAI Oral 2026</div>
       <h3>MedAtlas: Evaluating LLMs for Multi-Round, Multi-Task Medical Reasoning Across Diverse Imaging Modalities and Clinical Text</h3>
       <p>Authors, ..., <strong>Yangbo Wei</strong> (3rd Author).</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>AAAI Oral</span><span>Medical Reasoning</span><span>Multimodal Evaluation</span><span>Clinical Text</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>AI Flagship Oral</span><span>Medical Reasoning</span><span>Multimodal Evaluation</span><span>Clinical Text</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">ICASSP 2026</div>
       <h3>MambaDATG: Domain-Adaptive Tri-Plane-Gated Pre-Training for 3D Abdominal Segmentation</h3>
       <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>ICASSP</span><span>3D Segmentation</span><span>Domain Adaptation</span><span>Tri-Plane Gating</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>Signal Processing Flagship</span><span>3D Segmentation</span><span>Domain Adaptation</span><span>Tri-Plane Gating</span></div>
     </article>
     <article class="pub-item">
       <div class="pub-item__venue">BIBM 2025</div>
       <h3>H3DE-Net: Efficient and Accurate 3D Landmark Detection in Medical Imaging</h3>
       <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>BIBM</span><span>Landmark Detection</span><span>Medical Imaging</span><span>Efficient 3D</span></div>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--b">CCF-B</span><span>Bioinformatics Venue</span><span>Landmark Detection</span><span>Medical Imaging</span><span>Efficient 3D</span></div>
     </article>
   </section>
 </div>
