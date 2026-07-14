@@ -50,9 +50,9 @@ redirect_from:
 
 # 🔥 News
 <div class="news-timeline" markdown="1">
-- *2026.04*: &nbsp;🎉🎉 Two papers were accepted by **ICML 2026**.
-- *2025.11*: &nbsp;🚀🚀 Two papers were accepted by **ASPLOS 2026 (10.6%)** and **AAAI 2026 (17.6%)**.
-- *2024.05*: &nbsp;🏆🏆 Our paper received the **Best Paper Award** at ISEDA 2024!
+- *2026.04* Two papers were accepted by **ICML 2026**.
+- *2025.11* Two papers were accepted by **ASPLOS 2026 (10.6%)** and **AAAI 2026 (17.6%)**.
+- *2024.05* Our paper received the **Best Paper Award** at ISEDA 2024.
 </div>
 
 
