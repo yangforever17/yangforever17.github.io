@@ -29,22 +29,22 @@ redirect_from:
   <div class="research-card">
     <span>01</span>
     <strong>AI Agents & Reasoning</strong>
-    <p>Agentic reasoning, Multi-Agent Systems (MAS), Efficient LLMs.</p>
+    <p>Agentic reasoning, Multi-Agent Systems (MAS), Efficient LLMs, self-evolving agents, agentic RL, agent infrastructure.</p>
   </div>
   <div class="research-card">
     <span>02</span>
     <strong>AI Hardware Acceleration</strong>
-    <p>Energy-efficient AI inference, ASIC & FPGA design for AI, Memory- and Kernel-level optimization.</p>
+    <p>Energy-efficient AI inference, ASIC & FPGA design for AI, memory- and kernel-level optimization, heterogeneous acceleration, reconfigurable computing.</p>
   </div>
   <div class="research-card">
     <span>03</span>
     <strong>LLM System Optimization</strong>
-    <p>Efficient LLM serving, Parallelism & memory optimization, Kernel-level execution, Runtime scheduling.</p>
+    <p>Efficient LLM serving, parallelism & memory optimization, KV-cache management, speculative decoding, runtime scheduling.</p>
   </div>
   <div class="research-card">
     <span>04</span>
     <strong>AI for EDA</strong>
-    <p>LLM-based agents for electronic design automation (EDA).</p>
+    <p>LLM-based agents for EDA, schematic synthesis, PCB design, Verilog generation, 3D-IC thermal modeling, semiconductor parameter extraction.</p>
   </div>
 </section>
 
@@ -75,7 +75,6 @@ redirect_from:
 <div class="publication-list">
   <section class="pub-group">
     <h2>Agentic AI & Reasoning</h2>
-    <p class="pub-group__note">Self-evolving agents, agentic RL, agent infrastructure, multi-agent workflows, and efficient reasoning systems.</p>
     <article class="pub-item">
       <div class="pub-item__venue">arXiv 2026</div>
       <h3><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_OnEpYMAAAAJ&citation_for_view=_OnEpYMAAAAJ:roLk4NBRz8UC">SkillSmith: Co-Evolving Skills and Tools for Self-Improving Agent Systems</a></h3>
@@ -104,7 +103,6 @@ redirect_from:
 
   <section class="pub-group">
     <h2>LLM Systems & Architecture</h2>
-    <p class="pub-group__note">Memory-aware serving, KV-cache management, speculative decoding, FPGA overlays, and architecture-runtime co-design for efficient LLMs.</p>
     <article class="pub-item">
       <div class="pub-item__venue">ICCAD 2026</div>
       <h3>Cluster-of-Thought: Semantic-Structured KV-Cache Management for Long-Context Reasoning Models</h3>
@@ -151,7 +149,6 @@ redirect_from:
 
   <section class="pub-group">
     <h2>AI for EDA</h2>
-    <p class="pub-group__note">LLM agents for schematic synthesis, verifiable PCB design, Verilog workflow search, 3D-IC thermal modeling, and semiconductor parameter extraction.</p>
     <article class="pub-item">
       <div class="pub-item__venue">ICCAD 2026</div>
       <h3>PCBclaw: Hierarchical Multi-Agent Schematic Synthesis and Verification for MCU System Boards</h3>
@@ -192,7 +189,6 @@ redirect_from:
 
   <section class="pub-group">
     <h2>AI for Science & Healthcare</h2>
-    <p class="pub-group__note">Multimodal medical reasoning, clinical evaluation, 3D segmentation, domain adaptation, and efficient medical imaging models.</p>
     <article class="pub-item">
       <div class="pub-item__venue">AAAI Oral 2026</div>
       <h3>MedAtlas: Evaluating LLMs for Multi-Round, Multi-Task Medical Reasoning Across Diverse Imaging Modalities and Clinical Text</h3>
