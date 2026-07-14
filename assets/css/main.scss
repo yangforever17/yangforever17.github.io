@@ -371,6 +371,22 @@ img.author__avatar {
     font-size: 0.88rem;
 }
 
+.publication-summary {
+    margin: -0.35rem 0 0.85rem;
+    padding: 0.48rem 0.68rem;
+    border: 1px solid rgba(30, 92, 120, 0.12);
+    border-left: 3px solid var(--site-accent-2);
+    border-radius: 8px;
+    color: var(--site-muted);
+    background: rgba(255, 255, 255, 0.58);
+    font-size: 0.82rem;
+    line-height: 1.42;
+
+    strong {
+        color: var(--site-ink);
+    }
+}
+
 .pub-badge {
     display: inline-flex;
     align-items: center;

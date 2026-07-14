@@ -65,6 +65,8 @@ redirect_from:
 <span class="pub-badge pub-badge--best">Award</span> Award
 </div>
 
+<p class="publication-summary">As first author or co-first author, I have published <strong>17 papers</strong>, including <strong>7 CCF-A papers</strong> and <strong>6 CCF-B papers</strong>.</p>
+
 <div class="publication-list">
   <section class="pub-group">
     <h2>Agentic AI & Reasoning</h2>
@@ -87,16 +89,10 @@ redirect_from:
       <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>Agent Workflows</span><span>Heuristic Evolution</span></div>
     </article>
     <article class="pub-item">
-      <div class="pub-item__venue">ACL Findings 2025</div>
+      <div class="pub-item__venue">ACL 2025</div>
       <h3>MECoT: Markov Emotional Chain-of-Thought for Personality-Consistent Role-Playing</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
       <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>Role-Playing</span><span>Emotional CoT</span></div>
-    </article>
-    <article class="pub-item">
-      <div class="pub-item__venue">ICIC 2025</div>
-      <h3>BOPRO: Towards New Style Bayesian Optimization with Large Language Models</h3>
-      <p>Authors, ..., <strong>Yangbo Wei</strong> (3rd Author).</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--c">CCF-C</span><span>Bayesian Optimization</span><span>LLM Search</span></div>
     </article>
   </section>
 
@@ -161,6 +157,12 @@ redirect_from:
       <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>Co-first</span><span>PCB Design</span><span>Self-Evolving Agent</span></div>
     </article>
     <article class="pub-item">
+      <div class="pub-item__venue">DAC 2026</div>
+      <h3>From Fluid Dynamics to Chip Design: Foundation Neural Operators Address Data Bottleneck in 3D-ICs Thermal Simulation</h3>
+      <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
+      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>Co-first</span><span>3D-IC Thermal</span><span>Neural Operators</span></div>
+    </article>
+    <article class="pub-item">
       <div class="pub-item__venue">ASPDAC 2026</div>
       <h3>Vflow: Discovering Optimal Agentic Workflows for Verilog Generation</h3>
       <p><strong>Yangbo Wei</strong>, et al.</p>
@@ -182,12 +184,6 @@ redirect_from:
 
   <section class="pub-group">
     <h2>AI for Science & Healthcare</h2>
-    <article class="pub-item">
-      <div class="pub-item__venue">DAC 2026</div>
-      <h3>From Fluid Dynamics to Chip Design: Foundation Neural Operators Address Data Bottleneck in 3D-ICs Thermal Simulation</h3>
-      <p><strong>Yangbo Wei</strong> (Co-first), et al.</p>
-      <div class="pub-item__tags"><span class="pub-badge pub-badge--a">CCF-A</span><span>Co-first</span><span>3D-IC Thermal</span><span>Neural Operators</span></div>
-    </article>
     <article class="pub-item">
       <div class="pub-item__venue">AAAI Oral 2026</div>
       <h3>MedAtlas: Evaluating LLMs for Multi-Round, Multi-Task Medical Reasoning Across Diverse Imaging Modalities and Clinical Text</h3>
@@ -212,6 +208,7 @@ redirect_from:
 
 # 🎖 Honors and Awards
 **Academic Awards**
+- *2026* **Travel Grant Award**, ICML 2026 (International Conference on Machine Learning)
 - *2026* **Silver Reviewer Award**, ICML 2026 (International Conference on Machine Learning)
 - *2024.05* **Best Paper Award**, ISEDA 2024 (International Symposium on Electronic Design Automation)
 
